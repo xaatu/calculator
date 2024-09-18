@@ -1,5 +1,7 @@
 import math
 
+# DISPLAY
+
 def display_menu():
     print("\nAdvanced Calculator")
     print("1. Addition")
